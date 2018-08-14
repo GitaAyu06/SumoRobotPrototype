@@ -1,2 +1,2 @@
 # SumoRobotPrototype
-Simple Sumo Robot with two ultrasonic sensor and two motor
+Simple Sumo Robot with two ultrasonic sensor, four photodiode, and two motor driver.
